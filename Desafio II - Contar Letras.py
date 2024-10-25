@@ -21,7 +21,6 @@ def contar_Letras_A(Texto):
     print("| Total de letras A:                         ", (qntLetras_A + qntLetras_A_acentuadas), "\n")
 
 
-
 print("\n| CONTABILIZAR A QUANTIDADE DE LETRAS 'A'")
 print("=========================================================")
 Texto = input("| Insira um texto:   ")
