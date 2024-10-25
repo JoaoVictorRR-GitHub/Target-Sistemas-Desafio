@@ -11,7 +11,6 @@
 #include<stdio.h>
 
 
-
 /// @brief Main.
 int main(){
 
